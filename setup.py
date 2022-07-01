@@ -35,4 +35,5 @@ os.system('sudo apt install \
     unzip \
     fontconfig \
     jq \
+    ccache \
     -y')
