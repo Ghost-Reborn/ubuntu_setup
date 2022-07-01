@@ -34,4 +34,5 @@ os.system('sudo apt install \
     xsltproc \
     unzip \
     fontconfig \
+    jq \
     -y')
